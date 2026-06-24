@@ -1,0 +1,9 @@
+diffusers
+transformers
+accelerate
+peft
+datasets
+gradio
+torch
+torchmetrics
+pillow
