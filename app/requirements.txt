@@ -1,0 +1,7 @@
+gradio>=4.0.0
+diffusers
+transformers
+accelerate
+safetensors
+torch
+torchvision
