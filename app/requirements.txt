@@ -8,5 +8,8 @@ torchvision
 pillow
 deep-translator
 gTTS
+<<<<<<< HEAD
 peft
 torchaudio
+=======
+>>>>>>> 44349bff06a7cda0020692fa1e9625208956eb79
