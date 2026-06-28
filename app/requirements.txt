@@ -6,3 +6,5 @@ safetensors
 torch
 torchvision
 pillow
+deep-translator
+gTTS
