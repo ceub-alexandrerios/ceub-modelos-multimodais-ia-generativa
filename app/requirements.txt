@@ -8,3 +8,5 @@ torchvision
 pillow
 deep-translator
 gTTS
+peft
+torchaudio
